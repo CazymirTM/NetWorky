@@ -14,6 +14,11 @@ Get **NetWorky.exe** from the [latest release](https://github.com/CazymirTM/NetW
 
 Windows SmartScreen may warn about a new, unsigned app. Click **More info → Run anyway**.
 
+![Overview](1.png)
+![Health Check](2.png)
+![Adapters](3.png)
+
+
 ## What it does
 
 ### Ethernet health check (about 10 seconds)
